@@ -1,2 +1,3 @@
 var tel =  "5213314457066";
 var telm = "5213317917329";
+disableRedirect = true;
